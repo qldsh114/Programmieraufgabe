@@ -1,5 +1,6 @@
 # Cypress E2E Tests – Spring PetClinic
 
+
 This repository contains end-to-end tests written in **Cypress with TypeScript** for the [Spring PetClinic](https://github.com/spring-projects/spring-petclinic) web application. The project uses a Page Object Model approach with helper functions defined in `MyLinks.ts`.
 
 ---
