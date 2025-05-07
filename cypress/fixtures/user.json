@@ -1,0 +1,13 @@
+{
+    "authority": "https://login.microsoftonline.com/your-aad-tenant-id",
+    "clientId": "app-client-id",
+    "clientSecret": "app-client-secret",
+    "apiScopes": "api://api-client-id/adminuiapi.access",
+    "username": "user@yourcompany.onmicrosoft.com",
+    "password": "password",
+    "environment": "login.microsoftonline.com",
+    "authorityType": "MSSTS",
+    "localAccountId": "current-user's-user-id",
+    "name": "name-of-the-user-without-the-AADdomain",
+    "realm": "your-aad-tenant-id"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "cypressproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^6.6.6",
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@types/faker": "^6.6.9",
+    "cypress": "^13.17.0",
+    "cypress-iframe": "^1.0.1",
+    "cypress-xpath": "^2.0.1",
+    "playwright-webkit": "1.34"
+  }
+}
